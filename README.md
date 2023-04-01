@@ -5,6 +5,12 @@
 - 😄 Pronouns: She/Her
 
 - ⚡ Fun fact: I believe that by learning more than one language, a programmer develop a deeper understanding of programming concepts and logic, as each language approaches problems in its own unique way. Having knowledge of multiple programming languages enables a programmer to be more versatile, efficient, and effective in their work.
+
+## I'm learning
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
+          
 <!--
 **RhaissaZeferino/RhaissaZeferino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
