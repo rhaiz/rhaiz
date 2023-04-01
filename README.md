@@ -28,7 +28,16 @@ I have solid knowledges in
 
 <!--
 
-![snake gif](https://github.com/RhaissaZeferino/RhaissaZeferino/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/KushalTanna24/KushalTanna24/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <br>
+  <br>
+</div>
+
+  <hr>
 
 **RhaissaZeferino/RhaissaZeferino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
