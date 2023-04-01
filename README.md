@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/RhaissaZeferino/RhaissaZeferino/blob/output/github-contribution-grid-snake.svg)
 ### Hi there 👋 I'm Rhaissa!
 <!--
  Hello, Devs!!
@@ -27,7 +28,7 @@ I have solid knowledges in
 </picture>
 
 <!--
-![Snake animation](https://github.com/RhaissaZeferino/RhaissaZeferino/blob/output/github-contribution-grid-snake.svg)
+
 
 **RhaissaZeferino/RhaissaZeferino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
