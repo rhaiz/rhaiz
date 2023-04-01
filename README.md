@@ -19,28 +19,6 @@
 ## I'm learning
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-          
-<hr>
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,python,vue,javascript,css,wordpress,pr,express,styledcomponents,nextjs,graphql" /><br>
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,mongodb,mysql,django,html,redux,blender,ae,linux,vscode,heroku,figma" />
-
-  </a>
-</p>
-<br>
-<h4>Learning</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,googlecloud" />
-  </a>
-</p>
-<hr>
-
-
-<!--
 
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
@@ -50,6 +28,9 @@
   <br>
   <br>
 </div>
+<!--
+
+
 
   <hr>
 
