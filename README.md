@@ -21,6 +21,7 @@ I have solid knowledges in
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
           
 ![Snake animation](https://github.com/RhaissaZeferino/RhaissaZeferino/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **RhaissaZeferino/RhaissaZeferino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
