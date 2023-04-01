@@ -1,5 +1,10 @@
 ### Hi there 👋 I'm Rhaissa!
-# Hello, Devs!!
+<!--
+ Hello, Devs!!
+-->
+- 😄 Pronouns: She/Her
+
+- ⚡ Fun fact: I believe that by learning more than one language, a programmer develop a deeper understanding of programming concepts and logic, as each language approaches problems in its own unique way. Having knowledge of multiple programming languages enables a programmer to be more versatile, efficient, and effective in their work.
 <!--
 **RhaissaZeferino/RhaissaZeferino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+--
+>
