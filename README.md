@@ -28,6 +28,7 @@ I have solid knowledges in
 
 <!--
 
+![snake gif](https://github.com/RhaissaZeferino/RhaissaZeferino/blob/output/github-contribution-grid-snake.gif)
 
 **RhaissaZeferino/RhaissaZeferino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
