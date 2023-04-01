@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/RhaissaZeferino/RhaissaZeferino/blob/output/github-contribution-grid-snake.svg)
 ### Hi there 👋 I'm Rhaissa!
 <!--
  Hello, Devs!!
