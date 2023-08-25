@@ -13,8 +13,8 @@ I'm a Junior Full Stack Developer and a college student of Analysis and Systems 
 
 <div align="center">
  <a href="https://github.com/RhaissaZeferino">
- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RhaissaZeferino&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RhaissaZeferino&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhaissaZeferino&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RhaissaZeferino&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
 </div>
 
 ### About me
