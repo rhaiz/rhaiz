@@ -39,10 +39,6 @@ I'm a Junior Full Stack Developer and a college student of Analysis and Systems 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
           
           
-          
-
-
-  <img alt="snake eating my contribution" src="https://github.com/KushalTanna24/KushalTanna24/blob/output/github-contribution-grid-snake.svg">
 
  ### You can also find me on 
 <a href="https://www.linkedin.com/in/rhaissa-zeferino/" target="_blank">
