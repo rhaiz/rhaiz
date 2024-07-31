@@ -8,9 +8,8 @@
  Hello, Devs!! How are you?
 -->
 
-### Pronouns: She/Her
-I'm a Junior Full Stack Developer and a college student of Analysis and Systems Development.
-
+### Pronouns: She/Her or They/Them
+I'm a Full Stack Developer with Python Backend and React Frontend. I also graduated with a degree in Analysis and Systems Development.
 <div align="center">
  <a href="https://github.com/RhaissaZeferino">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhaissaZeferino&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
@@ -18,27 +17,34 @@ I'm a Junior Full Stack Developer and a college student of Analysis and Systems 
 </div>
 
 ### About me
- I believe that by learning more than one language, a programmer develop a deeper understanding of programming concepts and logic, as each language approaches problems in its own unique way. Having knowledge of multiple programming languages enables a programmer to be more versatile, efficient, and effective in their work.
-
+ <p> I believe that having the know-how of multiple programming languages enables a programmer to be more versatile, efficient, and effective in their work besides it's possible to develop a deeper understanding of programming concepts and logic. </p>
+ <p> My journey in technology started in 2018! </p>
+ <p> I have a technical degree in IT and a and a higher education degree in Analysis and Systems Development. </p>
+<hr>
 <div align="center">
+  With that said,
   
- ## I have solid knowledges in
+ ## I have gained experience in
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
           
           
-          
-          
 
- ## I'm currently learning
+
+
+ ## I'm currently improving in
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-          
-          
+
+and
+
+ ## Following these roadmaps
+ - [Python](https://roadmap.sh/python)
+ - [Data Scientist](https://roadmap.sh/ai-data-scientist)
 
  ### You can also find me on 
 <a href="https://www.linkedin.com/in/rhaissa-zeferino/" target="_blank">
