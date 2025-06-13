@@ -11,9 +11,9 @@
 ### Pronouns: She/They
 I'm a Full Stack Developer with Python Backend and Javascript Frontend. I also graduated with a degree in Analysis and Systems Development.
 <div align="center">
- <a href="https://github.com/RhaissaZeferino">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhaissaZeferino&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RhaissaZeferino&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
+ <a href="https://github.com/rhaiz">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaiz&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhaiz&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
 </div>
 
 ### About me
