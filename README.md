@@ -1,6 +1,12 @@
+<div align="center">
+
+## Rhaissa Zeferino 
+</div>
+
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Rhaissa!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Rhaissa!+🧑🏾‍💻;&center=true&size=30">
   </a>
 </h1>
 
@@ -38,11 +44,14 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
             
+#### My portifolio link: https://portfolio-rhaissazeferinos-projects.vercel.app/
 
  ### You can also find me on 
 <a href="https://www.linkedin.com/in/rhaissa-zeferino/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" />
  </a> 
-
+<!--
+ https://www.linkedin.com/in/rhaissa-zeferino/
+-->
  </div>
 
