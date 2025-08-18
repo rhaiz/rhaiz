@@ -1,12 +1,15 @@
 <!--
  Hello, Devs!! How are you?
 -->
-<div align="center">
-<h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+a+;Software+Engineer!+🧑🏾‍💻;&center=true&size=30">
-  </a>
-</h1>
+<div id="gh-dark-mode-only" align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=5EE9B5&center=true&vCenter=true&width=435&lines=Hi+There!+👋;+I'm+a+;Software+Engineer!+🧑🏾‍💻)](https://git.io/typing-svg)
+</div>
+<div align="center" id="gh-light-mode-only">
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=006045&center=true&vCenter=true&width=435&lines=Hi+There!+👋;+I'm+a+;Software+Engineer!+🧑🏾‍💻)](https://git.io/typing-svg)
+</div>
+
 
 
 ## 🫡 My name is Rhaissa Zeferino and my pronouns are She/They!⭐
