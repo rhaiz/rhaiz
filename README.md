@@ -1,14 +1,15 @@
 <!--
  Hello, Devs!! How are you?
 -->
-<div id="gh-dark-mode-only" align="center">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=5EE9B5&center=true&vCenter=true&width=435&lines=Hi+There!+👋;+I'm+a+;Software+Engineer!+🧑🏾‍💻)](https://git.io/typing-svg)
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=5EE9B5&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I%27m+a+Software+Engineer!+%F0%9F%A7%91%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=006045&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I%27m+a+Software+Engineer!+%F0%9F%A7%91%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB">
+  <img alt="Fallback image description" src="default-image.png">
+</picture>
 </div>
-<div align="center" id="gh-light-mode-only">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=006045&center=true&vCenter=true&width=435&lines=Hi+There!+👋;+I'm+a+;Software+Engineer!+🧑🏾‍💻)](https://git.io/typing-svg)
-</div>
+<div align="center">
 
 
 
