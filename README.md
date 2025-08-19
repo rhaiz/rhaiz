@@ -14,7 +14,7 @@
 
 <div align="center">
  
-# 🫡 My name is Rhaissa Zeferino and my pronouns are She/They!⭐
+# 🫡 My name is Rhaissa Zeferino and my pronouns are She/They!
 <a href="https://github.com/rhaiz">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaiz&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhaiz&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
