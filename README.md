@@ -85,5 +85,9 @@ I believe that having know-how of multiple programming languages has made me mor
   <img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" width="60" height="60" /></a>
  &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://portfolio-rhaissazeferinos-projects.vercel.app/" target="_blank">
-  <img src="https://portfolio-rhaissazeferinos-projects.vercel.app/favicon.ico" width="60" height="60"</a>
+  <img src="https://portfolio-rhaissazeferinos-projects.vercel.app/favicon.ico" width="60" height="60"/></a>
+ &nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.credly.com/users/rhaissazeferino" target="_blank">
+  <img src="https://cdn.jotfor.ms/templates/screenshot/integrations/credly.webp?w=108&v=2756337584&t=thumbnail" width="60" height="60"/></a>
+  
 </div>
