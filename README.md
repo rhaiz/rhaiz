@@ -15,18 +15,18 @@
  
 # 🫡 My name is Rhaissa Zeferino and my pronouns are She/They!
 <picture>
-  <source height="180em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaiz&title_color=5EE9B5&border_color=5EE9B5&bg_color=0D1117&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only">
+  <source height="180em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=rhaiz&title_color=5EE9B5&border_color=5EE9B5&bg_color=0D1117&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only">
  
-  <source height="180em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaiz&title_color=006045&border_color=006045&layout=compact&langs_count=7&theme=light#gh-light-mode-only">
+  <source height="180em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=rhaiz&title_color=006045&border_color=006045&layout=compact&langs_count=7&theme=light#gh-light-mode-only">
  
   <img height="180em" alt="Fallback image description, something went wrong" src="https://t4.ftcdn.net/jpg/05/24/04/51/360_F_524045110_UXnCx4GEDapddDi5tdlY96s4g0MxHRvt.jpg">
 </picture>
 
 
 <picture>
- <source height="180em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rhaiz&icon_color=5EE9B5&title_color=5EE9B5&border_color=5EE9B5&bg_color=0D1117&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true">
+ <source height="180em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=rhaiz&icon_color=5EE9B5&title_color=5EE9B5&border_color=5EE9B5&bg_color=0D1117&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true">
 
- <source height="180em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rhaiz&icon_color=006045&title_color=006045&border_color=006045&show_icons=true&theme=light#gh-light-mode-only&include_all_commits=true&count_private=true">
+ <source height="180em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=rhaiz&icon_color=006045&title_color=006045&border_color=006045&show_icons=true&theme=light#gh-light-mode-only&include_all_commits=true&count_private=true">
 
   <img height="180em" alt="Fallback image description, something went wrong" src="https://t4.ftcdn.net/jpg/05/24/04/51/360_F_524045110_UXnCx4GEDapddDi5tdlY96s4g0MxHRvt.jpg">
 </picture>
