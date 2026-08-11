@@ -55,7 +55,7 @@ I believe that having know-how of multiple programming languages has made me mor
 
 > - I have a technical degree in IT 💻 
 > - A higher education degree in Analysis and Systems Development 🎓
-> - I´m currently studying Data Science & Analytics (MBA)!📈🚀
+> - And a MBA in Data Science & Analytics!📈🚀
 >   
 > I believe that knowledge is the most valuable asset in the world, and I deeply value it in both my daily life and career.
 
